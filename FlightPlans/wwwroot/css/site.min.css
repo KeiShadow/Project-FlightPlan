@@ -1,0 +1,22 @@
+html,body {
+    height:100%;
+ }
+ #map {
+     height: 100%;
+ }  
+ .boxForm{
+     margin-top: 5px;
+     width: 50%;
+     float: left;
+     height: 500px;
+ }
+ .ods{
+     margin-top:40px;
+     margin-left:40px; 
+ }
+ #boxMap{
+     height: 94%;
+     width: 50%  ;
+     float: right;
+ }
+ 

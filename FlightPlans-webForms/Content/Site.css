@@ -1,0 +1,21 @@
+﻿html,body {
+   height:100%;
+}
+#map {
+    height: 900px;
+    width:100%;
+}
+
+.boxForm {
+    padding-top: 45px;
+    width: 50%;
+    float: left;
+    height: 500px;
+}
+
+.boxMap {
+    padding-top: 45px;
+    height: 80%;
+    width: 50%;
+    float: right;
+}

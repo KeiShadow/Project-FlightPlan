@@ -1,0 +1,11 @@
+D:\GitHub\Vis-projekt\FlightPlans\bin\Debug\netcoreapp2.0\FlightPlans.deps.json
+D:\GitHub\Vis-projekt\FlightPlans\bin\Debug\netcoreapp2.0\FlightPlans.runtimeconfig.json
+D:\GitHub\Vis-projekt\FlightPlans\bin\Debug\netcoreapp2.0\FlightPlans.runtimeconfig.dev.json
+D:\GitHub\Vis-projekt\FlightPlans\bin\Debug\netcoreapp2.0\FlightPlans.dll
+D:\GitHub\Vis-projekt\FlightPlans\bin\Debug\netcoreapp2.0\FlightPlans.pdb
+D:\GitHub\Vis-projekt\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.csproj.CoreCompileInputs.cache
+D:\GitHub\Vis-projekt\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.AssemblyInfoInputs.cache
+D:\GitHub\Vis-projekt\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.AssemblyInfo.cs
+D:\GitHub\Vis-projekt\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.dll
+D:\GitHub\Vis-projekt\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.pdb
+D:\GitHub\Vis-projekt\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.csprojResolveAssemblyReference.cache
