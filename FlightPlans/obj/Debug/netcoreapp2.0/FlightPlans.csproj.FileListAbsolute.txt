@@ -9,3 +9,14 @@ D:\GitHub\Vis-projekt\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.AssemblyIn
 D:\GitHub\Vis-projekt\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.dll
 D:\GitHub\Vis-projekt\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.pdb
 D:\GitHub\Vis-projekt\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.csprojResolveAssemblyReference.cache
+D:\GitHub\Project-FlightPlan\FlightPlans\bin\Debug\netcoreapp2.0\FlightPlans.deps.json
+D:\GitHub\Project-FlightPlan\FlightPlans\bin\Debug\netcoreapp2.0\FlightPlans.runtimeconfig.json
+D:\GitHub\Project-FlightPlan\FlightPlans\bin\Debug\netcoreapp2.0\FlightPlans.runtimeconfig.dev.json
+D:\GitHub\Project-FlightPlan\FlightPlans\bin\Debug\netcoreapp2.0\FlightPlans.dll
+D:\GitHub\Project-FlightPlan\FlightPlans\bin\Debug\netcoreapp2.0\FlightPlans.pdb
+D:\GitHub\Project-FlightPlan\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.csprojResolveAssemblyReference.cache
+D:\GitHub\Project-FlightPlan\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.csproj.CoreCompileInputs.cache
+D:\GitHub\Project-FlightPlan\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.AssemblyInfoInputs.cache
+D:\GitHub\Project-FlightPlan\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.AssemblyInfo.cs
+D:\GitHub\Project-FlightPlan\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.dll
+D:\GitHub\Project-FlightPlan\FlightPlans\obj\Debug\netcoreapp2.0\FlightPlans.pdb

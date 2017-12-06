@@ -12543,11 +12543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Vis-projekt\\FlightPlans\\FlightPlans.csproj",
+      "projectUniqueName": "D:\\GitHub\\Project-FlightPlan\\FlightPlans\\FlightPlans.csproj",
       "projectName": "FlightPlans",
-      "projectPath": "D:\\GitHub\\Vis-projekt\\FlightPlans\\FlightPlans.csproj",
+      "projectPath": "D:\\GitHub\\Project-FlightPlan\\FlightPlans\\FlightPlans.csproj",
       "packagesPath": "C:\\Users\\nskyp\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Vis-projekt\\FlightPlans\\obj\\",
+      "outputPath": "D:\\GitHub\\Project-FlightPlan\\FlightPlans\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

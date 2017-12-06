@@ -8,9 +8,9 @@
                 <div class="col">
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon ui-widget">
-                            <img src="img/aeroplane.png" alt=""/>
+                            <img src="images/aeroplane.png" alt=""/>
                         </div>
-                        <input placeholder="From" name="srchFrom" class="form-control" id="srchFrom" list="datalistFrom"> 
+                        <input placeholder="From" name="srchFrom"  value="prague" class="form-control" id="srchFrom" list="datalistFrom"> 
                         <datalist id="datalistFrom"> </datalist>
                     </div> 
                 </div>    
@@ -18,9 +18,9 @@
 
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon">
-                            <img src="img/aeroplane.png" alt=""/>
+                            <img src="images/aeroplane.png" alt=""/>
                         </div>
-                        <input placeholder="To" name="srchTo" class="form-control" id="srchTo" list="datalistTo">
+                        <input placeholder="To" name="srchTo"  value="vienna" class="form-control" id="srchTo" list="datalistTo">
                         <datalist id="datalistTo"></datalist>
                     </div>
                 </div>
@@ -48,9 +48,40 @@
                 </div>
             </div>
 
-            <input class="btn btn-primary" type="button" type="submit" value="Submit" onclick="getFlights(this)">
+            <input class="btn btn-primary" type="button" value="Submit" onclick="getFlights(this)">
 
-            <span id="obsah"></span>
+            <div id="lety">
+                <!--<div class="card">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-sm-2">
+                                <div class="text-left" id="spolecnost">
+                                  
+                                    <h6 id="spol"> Spolecnost</h6>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                OD-DO
+                            </div>
+                            <div class="col-sm-3">
+                                Doba trvání letu
+                            </div>
+                            <div class="col-sm-2">
+                                <h4>Cena</h4>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card-footer">
+                        <div class="text-center">
+                           
+                            Šipka
+                        </div>
+
+                    </div>
+                </div> -->  
+            </div>   
+         
         </div>
 <div id="boxMap">
     <div id='map'></div>
